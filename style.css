@@ -1,0 +1,30 @@
+.background {
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:-100;
+	width:100vw;height:100vh;
+	background-image: url("bg.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    font-family: "Montserrat";
+}
+
+h1 {
+    font-family: "Montserrat";
+    font-size: 30;
+    text-align: center;
+    display: block;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+a {
+    font-family: "Montserrat";
+}
